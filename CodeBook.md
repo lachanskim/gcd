@@ -52,26 +52,32 @@ Example:
 * 2
 * Each subject's unique identifier
 * Integers 1 to 30
-2.activity
+
+2. activity
 * 18
 * The activity each subject was performing when measurements were taken.
 * "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING"
+
 3. tBodyAccelerometerMeanX
 * 14
 * The time domain signal of the body acceleration's mean along the x-axis as measured by the accelerometer (in xyz space)
 * 0.2216 to 0.3015
+
 4. tBodyAccelerometerMeanY
 * 14
 * The time domain signal of the body acceleration's mean along the y-axis as measured by the accelerometer (in xyz space)
 * -0.04051 to -0.001308
+
 5. tBodyAccelerometerMeanZ
 * 14
 * The time domain signal of the body acceleration's mean along the z-axis as measured by the accelerometer (in xyz space)
 * -0.1525 to -0.07538
+
 6. tBodyAccelerometerStdX
 * 14
 * The time domain signal of the body acceleration's standard deviation along the x-axis as measured by the accelerometer (in xyz space)
 * -0.9961 to 0.6269
+
 7. tBodyAccelerometerStdY
 * 14
 * The time domain signal of the body acceleration's standard deviation along the y-axis as measured by the accelerometer (in xyz space)
