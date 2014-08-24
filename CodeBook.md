@@ -52,7 +52,7 @@ Example:
 * 2
 * Each subject's unique identifier
 * Integers 1 to 30
-2. activity
+2.activity
 * 18
 * The activity each subject was performing when measurements were taken.
 * "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING"
