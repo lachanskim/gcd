@@ -1,5 +1,7 @@
 #CodeBook
 
+For optimal viewing, please read this file in its raw form. The markdown interpreter by GitHub seems to render it the data dictionary structure below incoherent.
+
 This file CodeBook.md or 'CodeBook' hereafter describes the variables of
 the file tidied2.txt output by run_analysis.R which uses the files
 in UCI Har Dataset. We follow the advice given in the Coursera Getting and
@@ -38,7 +40,6 @@ each of the variable names and variable definitions. This implies, for example, 
 accelerometer (in xyz space)" is rendered in THIS DOCUMENT's variable description as simply: "the time domain 
 signal of the body acceleration's standard deviation along the x-axis (in xyz space)." Ranges are reported to four non-zero digits unless otherwise specified.
 
-
 Example:
 6. tBodyAccelerometerStdX
 * 14
@@ -47,7 +48,7 @@ Example:
 
 ##Data Dictionary
 
-1. id
+1.id
 * 2
 * Each subject's unique identifier
 * Integers 1 to 30
