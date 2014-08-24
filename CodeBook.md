@@ -1,6 +1,6 @@
 #CodeBook
 
-For optimal viewing, please read this file in its raw form. The markdown interpreter by GitHub seems to render it the data dictionary structure below incoherent.
+For optimal viewing, please read this file in its raw form. The markdown interpreter by GitHub seems to render the data dictionary structure below incoherent.
 
 This file CodeBook.md or 'CodeBook' hereafter describes the variables of
 the file tidied2.txt output by run_analysis.R which uses the files
