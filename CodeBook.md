@@ -48,7 +48,7 @@ Example:
 
 ##Data Dictionary
 
-1.id
+1. id
 * 2
 * Each subject's unique identifier
 * Integers 1 to 30
