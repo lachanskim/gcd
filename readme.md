@@ -82,7 +82,7 @@ has the following column names: "id","activity","V1","V2","V3","V4","V5","V6","V
 "V271","V345","V346","V347","V348","V349","V350","V424","V425","V426","V427","V428","V429",
 "V503","V504","V516", "V517","V529","V530","V542", and "V543".
 
-We use "id" as an abreviation for "subject id". 
+We use "id" as an abbreviation for "subject id". 
 
 ### 3. Uses Descriptive Activity Names to Name the Activities of the Data Set.
 
